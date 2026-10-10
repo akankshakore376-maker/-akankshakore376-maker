@@ -1,189 +1,83 @@
-# Hi, I'm Akanksha Kore 👋
+<h1 align="center"> Hi, This is Akanksha Kore </h1>
+<h3 align="center">...Aspiring Data Scientist & Computer Science Post-Graduate... </h3>
 
-<h3 align="center">Aspiring Data Scientist | Computer Science Postgraduate</h3>
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akankshakore376-maker&label=PROFILE+VIEWS&style=flat-square&color=orange" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
+</div>
 
-<!-- Profile Photo -->
-<p align="center">
-  <img
-    src="./assets/profile.jpg"
-    alt="Akanksha Kore"
-    width="200"
-  />
-</p>
+<h3 align="center">🎓 Recently completed M.Sc. in Computer Science | 📊 Currently upskilling in Data Science</h3>
+<br/>
 
-<h3 align="center">
-  🎓 Recently completed M.Sc. in Computer Science
-  <br/>
-  📊 Currently upskilling in Data Science
-</h3>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Postgraduate in Computer Science.
-- 📊 Currently learning and developing my skills in Data Science.
-- 🐍 Interested in Python, data analysis, and problem-solving.
-- 💡 Passionate about exploring data and discovering meaningful insights.
-- 🚀 Always eager to learn new technologies and work on real-world projects.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="HackerRank"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="LeetCode"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://github.com/akankshakore376-maker" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-      alt="GitHub"
-      height="35"
-      width="40"
-    />
-  </a>
-</p>
-
----
+<div align="center">
+  <h3>Connect with me!</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
 ## ⚡ Technologies & Skills
 
-### 💻 Programming Languages
+### Languages & Frameworks
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="45"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="55" height="45"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-</p>
-
-### 🌐 Web Technologies
-
-<p align="left">
-  <a href="https://html.spec.whatwg.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="45"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="45"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="45"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="55" height="45"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="55" height="45"/>
-  </a>
-</p>
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
----
-
-## 📈 GitHub Activity
+## Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=akankshakore376-maker&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6b6b&ring=00c0ff&currStreakLabel=00c0ff"
-    alt="Akanksha's GitHub Streak"
-    width="90%"
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6b6b&ring=00c0ff&currStreakLabel=00c0ff" 
+    alt="Akanksha's GitHub Streak" 
+    style="width: 90%; max-width: 400px; border-radius: 12px; box-shadow: 0 0 10px #00c0ff;" 
   />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=akankshakore376-maker&show_icons=true&theme=radical&hide_border=true"
-    alt="Akanksha's GitHub Statistics"
-    width="90%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshakore376-maker&layout=compact&theme=radical&hide_border=true"
-    alt="Most Used Languages"
-    width="90%"
-  />
-</p>
-
----
-
-## 🎯 My Current Goals
-
-- 📚 Strengthen my Data Science fundamentals.
-- 🐍 Improve my Python programming and data analysis skills.
-- 📊 Learn data visualization and machine learning.
-- 💻 Build practical projects and grow my GitHub portfolio.
-
----
-
-<p align="center">
-  <b>✨ Learning every day, growing with every project! ✨</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/akankshakore376-maker">
-    Visit My GitHub Profile
-  </a>
 </p>
