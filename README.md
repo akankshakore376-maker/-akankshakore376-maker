@@ -4,7 +4,7 @@
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
+  <img src="C:\Users\Akanksha\Downloads\WhatsApp Image 2026-10-10 at 8.10.57 PM.jpeg" />
 </div>
 
 <h3 align="center">🎓 Recently completed M.Sc. in Computer Science | 📊 Currently upskilling in Data Science</h3>
