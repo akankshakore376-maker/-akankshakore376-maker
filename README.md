@@ -2,9 +2,7 @@
 
 <h3 align="center">Aspiring Data Scientist & Computer Science Post-Graduate</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=orange" alt="Profile Views" />
-</p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Header Banner" />
@@ -20,12 +18,7 @@
     <a href="https://www.linkedin.com/in/akanksha-kore-301584394/" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    </a>
+
   </p>
 </div>
 
@@ -37,18 +30,14 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+ 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -80,7 +69,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6b6b&ring=00c0ff&currStreakLabel=00c0ff"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=akankshakore376-maker&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6b6b&ring=00c0ff&currStreakLabel=00c0ff"
     alt="Akanksha's GitHub Streak"
     width="90%"
   />
@@ -90,8 +79,6 @@
 
 - 💼 LinkedIn: [Akanksha Kore](https://www.linkedin.com/in/akanksha-kore-301584394/)
 
-- 💻 GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 💻 GitHub: [akankshakore376-maker](https://github.com/akankshakore376-maker)
 
-- 🏆 HackerRank: [YOUR_HACKERRANK_USERNAME](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
 
-- 🧩 LeetCode: [YOUR_LEETCODE_USERNAME](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
